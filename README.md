@@ -1,4 +1,4 @@
-### INSTALL 👋
+### INSTALL 
 
 pkg update && pkg upgrade
 
