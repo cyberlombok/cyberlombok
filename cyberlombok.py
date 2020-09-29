@@ -16,9 +16,9 @@ def baner():
 \t\033[00m KHAIRUL FATIHIN COOKIES V2
 \t\033[90m -----------------------\033[94m\n
 ===========================================\033[00m
-Creator \033[1;91m: \033[1;96mKHAIRUL FATIHIN\033[00m
-Autor \033[1;91m: \033[1;96mSENI ACCOUNT FACEBOOK INDONESIA\033[00m
-Github  \033[1;91m: \033[4;92mhttps://github.com/cyberlombok\033[00m
+Facebook \033[1;91m: \033[1;96mKHAIRUL FATIHIN\033[00m
+Group Fb \033[1;91m: \033[1;96mSENI ACCOUNT FACEBOOK INDONESIA\033[00m
+Github   \033[1;91m: \033[4;92mhttps://github.com/cyberlombok\033[00m
 \033[94m===========================================\033[00m""")
 def balik():
     f=input("\033[00m\t[\033[96mEnter To Back\033[00m]")
