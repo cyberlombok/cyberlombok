@@ -13,7 +13,7 @@ def kata(s):
 def baner():
     time.sleep(0.1)
     kata("""\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-\t\033[00m FACEBOOK MBF COOKIES V2
+\t\033[00m KHAIRUL FATIHIN COOKIES V2
 \t\033[90m -----------------------\033[94m\n
 ===========================================\033[00m
 Creator \033[1;91m: \033[1;96mKHAIRUL FATIHIN\033[00m
@@ -30,7 +30,7 @@ def mbf():
     time.sleep(0.1)
     print("\033[00m[\033[93m1\033[00m] Login")
     print("\033[00m[\033[93m2\033[00m] Update")
-    print("\033[00m[\033[93m3\033[00m] Group WA")
+    print("\033[00m[\033[93m3\033[00m] Group FB")
     print("\033[00m[\033[93m4\033[00m] Exit")
     time.sleep(0.1)
     f=input("\n\033[90m> \033[1;93m")
@@ -285,7 +285,7 @@ def mbf():
          balik()
 
     elif f == "3":
-         os.system("xdg-open https://chat.whatsapp.com/D4OnRzcSpfP9PxUuMqr64d")
+         os.system("xdg-open https://www.facebook.com/groups/436326706733002")
          balik()
 
     elif f == "4":
