@@ -13,7 +13,7 @@ def kata(s):
 def baner():
     time.sleep(0.1)
     kata("""\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-\t\033[00m FACEBOOK HACK COOKIES BY KHAIRUL FATIHIN
+\t\033[00m FACEBOOK HACK COOKIES V2
 \t\033[90m -----------------------\033[94m\n
 ===========================================\033[00m  
 Creator \033[1;91m: \033[1;96mKHAIRUL FATIHIN\033[00m
@@ -285,7 +285,7 @@ def mbf():
          balik()
 
     elif f == "3":
-         os.system("xdg-open https://chat.whatsapp.com/D4OnRzcSpfP9PxUuMqr64d")
+         os.system("xdg-open https://www.facebook.com/khairul.fatihin557")
          balik()
 
     elif f == "4":
