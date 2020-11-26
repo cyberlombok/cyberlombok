@@ -18,16 +18,16 @@ def main():
     bersih()
     print ('\33[32;1m')
     os.system ('figlet Tools Crack FB')
-    print'\n\t\33[36;1m+\33[1;33m===========================================\33[36;1m+'
-    print'\t\33[36;1mAuthor    \33[32;1m: \33[37;1mKHAIRUL FATIHIN '
-    print'\t\33[36;1mFacebook  \33[32;1m: \33[37;1mhttps://www.facebook.com/khairul.fatihin557 '
-    print'\t\33[36;1mKode Keras\33[31;1m: \33[31;1mGUNAKAN SCRIPT INI UNTUK KEBAIKAN BY KHAIRUL FATIHIN'
-    print'\t\33[36;1m+\33[1;33m===========================================\33[36;1m+'
-    print'\t\33[32;1m========== \33[36;1mBY KHAIRUL FATIHIN \33[32;1m=========='
-    print'\t\33[32;1m[\33[37;1m1\33[32;1m] \33[39;1mHack Fb Login Token '
-    print'\t\33[32;1m[\33[37;1m2\33[32;1m] \33[39;1mHack Fb Login Cokie '
-    print'\t\33[32;1m[\33[37;1m3\33[32;1m] \33[39;1mUbah Cookies Jadi Token '
-    print'\t\33[32;1m[\33[31;1m0\33[32;1m] \33[31;1mExit '
+    print'\33[36;1m+\33[1;33m===========================================\33[36;1m+'
+    print'\33[36;1mAuthor    \33[32;1m: \33[37;1mKHAIRUL FATIHIN '
+    print'\33[36;1mFacebook  \33[32;1m: \33[37;1mhttps://www.facebook.com/khairul.fatihin557 '
+    print'\33[36;1mKode Keras\33[31;1m: \33[31;1mGUNAKAN SCRIPT INI UNTUK KEBAIKAN BY KHAIRUL FATIHIN'
+    print'\33[36;1m+\33[1;33m===========================================\33[36;1m+'
+    print'\33[32;1m========== \33[36;1mBY KHAIRUL FATIHIN \33[32;1m=========='
+    print'\33[32;1m[\33[37;1m1\33[32;1m] \33[39;1mHack Fb Login Token '
+    print'\33[32;1m[\33[37;1m2\33[32;1m] \33[39;1mHack Fb Login Cokie '
+    print'\33[32;1m[\33[37;1m3\33[32;1m] \33[39;1mUbah Cookies Jadi Token '
+    print'\33[32;1m[\33[31;1m0\33[32;1m] \33[31;1mExit '
     gans = raw_input ('\33[36;1m==> ')
     if gans in ['1']:
         time.sleep(1)
