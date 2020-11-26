@@ -19,7 +19,7 @@ def main():
     print ('\33[32;1m')
     os.system ('figlet Tools Crack FB')
     print'\33[36;1m+\33[1;33m===========================================\33[36;1m+'
-    print'\33[36;1mAuthor       \33[32;1m: \33[37;1mKHAIRUL FATIHIN '
+    print'\33[36;1mAuthor    \33[32;1m: \33[37;1mKHAIRUL FATIHIN '
     print'\33[36;1mFacebook  \33[32;1m: \33[37;1mhttps://www.facebook.com/khairul.fatihin557 '
     print'\33[36;1m+\33[1;33m===========================================\33[36;1m+'
     print'\33[32;1m============  \33[37;1mM E N U \33[32;1m============'
