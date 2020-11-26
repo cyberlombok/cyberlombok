@@ -18,7 +18,7 @@ def main():
     bersih()
     print ('\33[32;1m')
     os.system ('figlet Tools Crack FB')
-    print'\t\33[36;1m+\33[1;33m===========================================\33[36;1m+'
+    print'\n\t\33[36;1m+\33[1;33m===========================================\33[36;1m+'
     print'\t\33[36;1mAuthor    \33[32;1m: \33[37;1mKHAIRUL FATIHIN '
     print'\t\33[36;1mFacebook  \33[32;1m: \33[37;1mhttps://www.facebook.com/khairul.fatihin557 '
     print'\t\33[36;1mKode Keras\33[31;1m: \33[31;1mGUNAKAN SCRIPT INI UNTUK KEBAIKAN BY KHAIRUL FATIHIN'
